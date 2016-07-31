@@ -1,4 +1,4 @@
-# UNRELEASED
+# 3.12.4 (2016-07-31)
   * Allow "entry" value of webpack configuration to be either Object or Array
 
 # 3.12.3 (2016-07-19)
