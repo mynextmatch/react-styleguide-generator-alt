@@ -1,3 +1,6 @@
+# UNRELEASED
+  * Allow "entry" value of webpack configuration to be either Object or Array
+
 # 3.12.3 (2016-07-19)
   * Fix broken demo issue with optional render for tabbed examples
   * Provide examples of stateless components and createClass static usage
