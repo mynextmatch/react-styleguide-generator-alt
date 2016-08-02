@@ -6,7 +6,7 @@
   color: inherit;
   border: none;
   background: transparent;
-  font: 300 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font: 300 14px "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
